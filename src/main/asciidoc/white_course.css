@@ -83,7 +83,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal h1 {
   font-size: 2.2em; 
-  color: #e47825;  
+  color: #592e83;  
 }
 
 .reveal h2 {
@@ -416,7 +416,7 @@ td.valign-top {
 
 .reveal .author small {
   font-size: 1em;
-  color: #e47825;
+  color: #592e83;
 }  
   
 /*********************************************
@@ -443,7 +443,7 @@ td.valign-top {
 
 
 body {
-  background-color: #f2e5da;
+  background-color: #faf4ff;
 }
 
 .bad-value {
@@ -485,7 +485,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 150px;
-    margin: -38px 0px 40px 9%;
+    margin: -38px 0px 40px 4%;
     /* left: 8%; */
     width: 93%;
     color: white;
@@ -498,7 +498,7 @@ body {
     margin: 0px 0px 0px 20%;
     /* left: 8%; */
     width: 71%;
-    color: #e47825;
+    color: black;
     height: inherit;
 }
 
